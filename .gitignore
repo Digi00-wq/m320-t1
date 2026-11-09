@@ -1,0 +1,6 @@
+# java maven
+.mvn
+target/
+.classpath
+.project
+.settings
